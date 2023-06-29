@@ -129,17 +129,5 @@
             app:layout_constraintTop_toBottomOf="@id/calculate_button"
             tools:text="Tip Amount: $10" />
 
-        <ImageView
-            android:id="@+id/easter_egg"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-            android:importantForAccessibility="no"
-            android:scaleType="centerCrop"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tip_result_textview"
-            app:srcCompat="@drawable/leroy" />
-
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
