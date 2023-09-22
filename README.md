@@ -6,7 +6,6 @@ Purpose - to learn interacting with basic UI components works, styles, a bit of 
 
 Screens: 
 
-![Light color scheme](/screenshots/day.png)
-![Dark color scheme](/screenshots/night.png)
+<img src="/screenshots/day.png" alt="drawing" width="200"/>  <img src="/screenshots/night.png" alt="drawing" width="200"/>
 
 
